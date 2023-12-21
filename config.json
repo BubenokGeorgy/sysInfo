@@ -1,0 +1,12 @@
+{
+  "allow_overriding": true,
+  "parallel_loading": true,
+  "suppress_warnings": false,
+  "default_strings": {
+    "latest": "latest",
+    "available": "available",
+    "no_address": "No Address",
+    "not_detected": "Not detected!",
+    "virtual_environment": "Virtual Environment"
+  }
+}
